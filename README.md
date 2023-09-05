@@ -52,10 +52,20 @@
     - 요청사항 관리 : 처리 / 미처리 
     - 요청사항 실시간 수신
 
+<br/>
+
+## 5. System Architecture
+![image](https://github.com/InternBrew/InterBrew_Docs/assets/119405733/8be2c940-4ce4-4b47-aaae-c8838fa3564a)
+
 
 <br/>
 
-## 5. 주요 트러블슈팅
+## 6. ERD
+![image](https://github.com/InternBrew/InterBrew_Docs/assets/119405733/633c40ce-e687-4d14-84ae-3ab13ac74ca7)
+
+<br/>
+
+## 7. 주요 트러블슈팅
 #### 1) QueryDsl 적용
    - Entity : Setter 사용 지양
    - business logic에서 Entity가 드러나지 않도록 DTO 사용
